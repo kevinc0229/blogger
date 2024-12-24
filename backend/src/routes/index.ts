@@ -1,4 +1,4 @@
-const express = import('express');
+import express from 'express';
 
 // Import controllers
 
